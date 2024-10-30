@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🚀 DogeMoon Coin 🌙</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(45deg, #1a1a1a, #2d2d2d);
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+        .hero {
+            text-align: center;
+            padding: 100px 20px;
+            background: url('https://placekitten.com/1200/600') center/cover;
+        }
+        .hero h1 {
+            font-size: 4em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        .stats {
+            display: flex;
+            justify-content: space-around;
+            padding: 50px 20px;
+            background: rgba(255,255,255,0.1);
+        }
+        .stat-box {
+            text-align: center;
+            padding: 20px;
+        }
+        .buy-button {
+            background: #ff6b6b;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 25px;
+            font-size: 1.2em;
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        .buy-button:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>🐕 DogeMoon Coin</h1>
+        <p>To The Moon And Beyond! 🚀</p>
+        <button class="buy-button">Buy Now</button>
+    </div>
+    
+    <div class="stats">
+        <div class="stat-box">
+            <h3>Market Cap</h3>
+            <p>$4.20M</p>
+        </div>
+        <div class="stat-box">
+            <h3>Holders</h3>
+            <p>69,420</p>
+        </div>
+        <div class="stat-box">
+            <h3>Price</h3>
+            <p>$0.00042069</p>
+        </div>
+    </div>
+
+    <div style="text-align: center; padding: 50px;">
+        <h2>Why DogeMoon?</h2>
+        <p>Because we're not just going to the moon, we're going to Mars! 🌟</p>
+        <p>100% Community Driven | Zero Fees | Much Wow!</p>
+    </div>
+</body>
+</html>
